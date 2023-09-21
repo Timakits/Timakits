@@ -36,7 +36,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React JS](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=black)
+   ![React JS](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
 
 <br>
 
@@ -57,8 +57,7 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Tesla-%23054020?style=for-the-badge&logo=PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Qm9vdHN0cmFwPC90aXRsZT48cGF0aCBkPSJNMTEuNzcgMTEuMjRIOS45NTZWOC4yMDJoMi4xNTJjMS4xNyAwIDEuODM0LjUyMiAxLjgzNCAxLjQ2NiAwIDEuMDA4LS43NzMgMS41NzItMi4xNzQgMS41NzJ6bS4zMjQgMS4yMDZIOS45NTd2My4zNDhoMi4yMzFjMS40NTkgMCAyLjIzMi0uNTg1IDIuMjMyLTEuNjg1cy0uNzk1LTEuNjYzLTIuMzI2LTEuNjYzek0yNCAxMS4zOXYxLjIxOGMtMS4xMjguMTA4LTEuODE3Ljk0NC0yLjIyNiAyLjI2OC0uNDA3IDEuMzE5LS40NjMgMi45MzctLjQyIDQuMTg2LjA0NSAxLjMtLjk2OCAyLjUtMi4zMzcgMi41SDQuOTg1Yy0xLjM3IDAtMi4zODMtMS4yLTIuMzM3LTIuNS4wNDMtMS4yNDktLjAxMy0yLjg2Ny0uNDItNC4xODYtLjQxLTEuMzI0LTEuMS0yLjE2LTIuMjI4LTIuMjY4VjExLjM5YzEuMTI4LS4xMDggMS44MTktLjk0NCAyLjIyNy0yLjI2OC40MDgtMS4zMTkuNDY0LTIuOTM3LjQyLTQuMTg2LS4wNDUtMS4zLjk2OC0yLjUgMi4zMzgtMi41aDE0LjAzMmMxLjM3IDAgMi4zODIgMS4yIDIuMzM3IDIuNS0uMDQzIDEuMjQ5LjAxMyAyLjg2Ny40MiA0LjE4Ni40MDkgMS4zMjQgMS4wOTggMi4xNiAyLjIyNiAyLjI2OHptLTcuOTI3IDIuODE3YzAtMS4zNTQtLjk1My0yLjMzMy0yLjM2OC0yLjQ4OHYtLjA1N2MxLjA0LS4xNjkgMS44NTYtMS4xMzUgMS44NTYtMi4yMTMgMC0xLjUzNy0xLjIxMy0yLjUzOC0zLjA2Mi0yLjUzOGgtNC4xNnYxMC4xNzJoNC4xODFjMi4yMTggMCAzLjU1My0xLjA4NiAzLjU1My0yLjg3NnoiLz48L3N2Zz4=-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
 
 
 </p>
